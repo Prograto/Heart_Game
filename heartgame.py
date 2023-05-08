@@ -5,8 +5,8 @@ def final_game(score):
     pygame.init()
 
     # Set the window size
-    win_width = 800
-    win_height = 600
+    win_width = 360
+    win_height = 670
     window = pygame.display.set_mode((win_width, win_height))
 
     # Set the title of the game window
